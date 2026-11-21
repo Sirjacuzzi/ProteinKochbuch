@@ -1,0 +1,29 @@
+{
+ "name": "Protein-Kochbuch",
+ "short_name": "Kochbuch",
+ "lang": "de",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f2f4f1",
+ "theme_color": "#f2f4f1",
+ "description": "Rezepte mit Live-Nährwerten, Tagesplan, Einkaufsliste und Gewicht.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

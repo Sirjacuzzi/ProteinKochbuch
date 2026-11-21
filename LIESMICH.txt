@@ -1,0 +1,13 @@
+Protein-Kochbuch als Web-App (für iPhone und Android)
+
+1. Diesen Ordner kostenlos ins Netz stellen, z. B.:
+   - Netlify: app.netlify.com/drop öffnen, kostenloses Konto anlegen, den Ordner "webapp" ins Fenster ziehen.
+   - Oder GitHub Pages: neues Repository, Dateien hochladen, unter Settings > Pages veröffentlichen.
+2. Den Link (https://…) per WhatsApp verschicken.
+3. Empfänger öffnet den Link:
+   - iPhone: in Safari öffnen > Teilen-Symbol > "Zum Home-Bildschirm".
+   - Android: in Chrome öffnen > Menü (drei Punkte) > "App installieren" bzw. "Zum Startbildschirm hinzufügen".
+4. Danach startet das Kochbuch vom Startbildschirm wie eine App und funktioniert auch offline.
+
+Jede Person hat ihre eigenen Daten auf ihrem Handy. Zum Übertragen auf ein neues Handy:
+Lebensmittel > "Sicherung als Datei speichern" und auf dem neuen Handy "Sicherung aus Datei laden".
